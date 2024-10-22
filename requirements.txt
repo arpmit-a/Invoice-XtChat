@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+python-dotenv
+# langchain
+# chromadb
+# faiss-cpu
+pdf2image
+#Downloaded Poppler and added it to system path, as it helps in finding page-count of pdfs
